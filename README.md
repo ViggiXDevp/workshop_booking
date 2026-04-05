@@ -178,3 +178,4 @@ A secondary challenge was ensuring the CSS redesign didn't break the existing Bo
 - [x] README includes reasoning answers and setup instructions
 - [x] Screenshots section included (populate with actual screenshots before submission)
 - [x] Code is documented with inline comments where necessary
+  
