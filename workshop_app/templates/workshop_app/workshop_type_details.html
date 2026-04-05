@@ -51,6 +51,7 @@
         </div>
     </div>
 
+    
     {% if not request.user|has_group:"instructor" %}
     <div style="margin-top:1.25rem;text-align:center;">
         <a href="{% url 'workshop_app:propose_workshop' %}" class="btn btn-success">
