@@ -31,8 +31,12 @@
 | **Register** | `form.as_table` dump | Styled two-column grid with password strength indicator |
 | **Profile** | Basic table layout | Gradient profile card with clean field rows |
 
-![Home](workshop_frontend/workshop_frontend/public/Home.png)
-![Statistics](workshop_frontend/workshop_frontend/public/statistics.png)
+<p align="center">
+  <img src="https://github.com/ViggiXDevp/workshop_booking/blob/master/workshop_frontend/workshop_frontend/public/Home.png" width="80%">
+</p>
+<p align="center">
+  <img src="https://github.com/ViggiXDevp/workshop_booking/blob/master/workshop_frontend/workshop_frontend/public/Statistics.png" width="80%">
+</p>
 
 ---
 
